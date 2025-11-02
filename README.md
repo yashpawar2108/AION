@@ -76,9 +76,9 @@ With a single input — raw data — **AION** delivers a **deployed, explainable
 ---
 
 ### 🏗️ Future Directions
-- Expansion into **cross-domain meta-learning** (vision, NLP, and multimodal datasets).  
+- Expansion into **cross-domain meta-learning** for vision and multimodal datasets.  
 - Integration with **federated learning pipelines** for privacy-preserving intelligence.  
-- Continuous **semantic feedback loops** where models critique their own reasoning.  
+- Continuous **semantic feedback loops** where models critique their own reasoning.   
 
 ---
 
